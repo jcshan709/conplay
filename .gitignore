@@ -1,0 +1,6 @@
+# built file
+build/
+build-msvc/
+
+lib/
+.vscode/
