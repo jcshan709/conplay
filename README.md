@@ -48,4 +48,4 @@ LICENSE
 * [clipp](https://github.com/muellan/clipp) and [its fork for c++20](https://github.com/andreasWallner/clipp/tree/c+%2B20)
 * [BASS audio library](http://www.un4seen.com/)
 * [colored cout](https://github.com/yurablok/colored-cout)
-* [stdcpp.h by myself](https://github/com/sjc0910/conplay/blob/master/include/stdcpp.h)
+* [stdcpp.h by myself](https://github.com/sjc0910/conplay/blob/master/include/stdcpp.h)
